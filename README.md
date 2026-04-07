@@ -42,7 +42,7 @@ URL :https://novaxai-alpha.vercel.app/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/dhruv25bce10476-rgb/Smart-Campus-Navigation-Resource-Booking-System.git]
+git clone : [View Repository on GitHub](https://github.com/dhruv25bce10476-rgb/Smart-Campus-Navigation-Resource-Booking-System)
 cd smart-campus
 
 # Install dependencies
