@@ -163,8 +163,8 @@ Once Signed in the website displays a basic dashbroad on the user screen. At the
 Under the Browse Resources section, user will be able to see available classes,resources and their respective slots.Based on there needs they can book a slot. 
 
 
-Under the Map section, user will be able to see the campus map with all the resources marked on it.Based on there needs they can book a slot.
+In the Map section, user will be able to see the campus map with all the resources marked on it.Based on there needs they can book a slot.
 
 Under the My Bookings section, user will be able to see all the bookings they have made.They can also cancel or reschedule a booking.
 
-Under the RFID section, user will be able to see the RFID tag associated with their account.They can also add a new RFID tag.
+In the RFID section, user will be able to see the RFID tag associated with their account.They can also add a new RFID tag.
