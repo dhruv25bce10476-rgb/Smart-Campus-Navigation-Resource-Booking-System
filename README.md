@@ -144,10 +144,27 @@ The Arduino firmware (`smartcampus.ino`) runs on an ESP32 and handles physical a
 
 **Security**: Unauthorized door opening or motion without a valid session triggers a red LED + buzzer alarm.
 
+
 ## Vision behind the project
 The goal is not just to build a booking system, but to move towards a smart campus environment where:
 - Decision happens in a real-time
 - Manual effort is reduced
 - Resources are used wisely
 
+### The Software Workflow
+The website first displays a basic sign up and login page. If the user is a new user, they have to sign up and create an account. If the user is an existing user, they can login and access the dashboard.
 
+Once Signed in the website displays a basic dashbroad on the user screen. At the right side , for user's guidance a navigation panel is displayed through which the user can navigate to different sections of the website.These include :
+1. Resources
+2. Map
+3. My Bookings
+4. RFID
+
+Under the Browse Resources section, user will be able to see available classes,resources and their respective slots.Based on there needs they can book a slot. 
+
+
+Under the Map section, user will be able to see the campus map with all the resources marked on it.Based on there needs they can book a slot.
+
+Under the My Bookings section, user will be able to see all the bookings they have made.They can also cancel or reschedule a booking.
+
+Under the RFID section, user will be able to see the RFID tag associated with their account.They can also add a new RFID tag.
