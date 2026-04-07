@@ -30,6 +30,9 @@ For example, instead of checking multiple places for visibility:
 - Sees what's free now
 - Book it instantly
 
+### Live Demo
+URL :https://novaxai-alpha.vercel.app/
+
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or higher)
@@ -39,7 +42,7 @@ For example, instead of checking multiple places for visibility:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/smart-campus.git
+git clone [https://github.com/dhruv25bce10476-rgb/Smart-Campus-Navigation-Resource-Booking-System.git]
 cd smart-campus
 
 # Install dependencies
