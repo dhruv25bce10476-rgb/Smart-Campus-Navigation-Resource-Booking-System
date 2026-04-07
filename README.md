@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Smart Campus Navigation & Resource Booking System
 
 This is a modern web application built with **React.js** that enables real-time campus navigation, shows live availability of bookable resources, and allows students and faculty to reserve slots seamlessly.
@@ -146,3 +147,7 @@ The goal is not just to build a booking system, but to move towards a smart camp
 - Decision happens in a real-time
 - Manual effort is reduced
 - Resources are used wisely
+=======
+# Smart-Campus-Navigation-Resource-Booking-System
+This is a modern web application built with **React.js** that enables real-time campus navigation, shows live availability of bookable resources, and allows students and faculty to reserve slots seamlessly.
+>>>>>>> 98ce8d980568ab7e2a5e25cdcf127db74994a7ed
